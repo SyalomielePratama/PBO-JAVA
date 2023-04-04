@@ -2,11 +2,6 @@ package com.mycompany.aplikasi;
 
 import java.util.Scanner;
 
-
-/**
- *
- * @author C-15
- */
 public class JavaAplikasi1 {
     public static void main(String[] args) {
         int nilaiA = 10;
